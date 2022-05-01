@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jubaer-ad
 - 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning Data Analytics offered by Google.
 - 📫 How to reach me jubaerad1@gmail.com
 
 <!---
