@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science.
 - 🌱 Currently focusing on DSA.
 - 📫 How to reach me jubaerad1@gmail.com
+- [Portfolio](https://jubaer-ad.github.io/)
 
 Backend-focused Software Engineer with expertise in .NET, C#, REST API development, and scalable backend architecture. Strong experience with clean architecture, SOLID principles, SQL/NoSQL databases, microservices, and enterprise platform integration including GDS systems (Amadeus, Sabre, Travelport). Adept at writing maintainable, high-performance, production-ready code.
 
